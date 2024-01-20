@@ -1,0 +1,14 @@
+{
+  "name": "ex1",
+  "version": "1.0.0",
+  "description": "first ex for fullstack II ",
+  "main": "ex1.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "eric grigor",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
